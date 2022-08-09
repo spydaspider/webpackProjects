@@ -18,13 +18,7 @@ module.exports = {
         use: ['style-loader', 'css-loader'],
       },
       {
-        test: /\.html$/,
-        use: ['html-loader'],
-      },
-      {
         test: /\.(png|svg|jpg|jpeg|gif)$/i,
-        include: path.join(__dirname, './assets'),
-        loader: 'file-loader',
         type: 'asset/resource',
       },
     ],
