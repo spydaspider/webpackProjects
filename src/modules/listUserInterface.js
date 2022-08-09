@@ -25,7 +25,7 @@ export default class ListUserInterface {
         `
             <div class="todolists">
               <input class="input-check" type="checkbox" /><label class="check">${list.description}</label>
-              <i class="fa fa-ellipsis-v" aria-hidden="true"></i>
+              <i class="fa fa-ellipsis-v"></i>
             </div>
             `,
       );
