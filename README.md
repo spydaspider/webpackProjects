@@ -1,12 +1,12 @@
     
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-Awesome Books Website
-This website stores a list of books provided by it's users in the local storage. It allows you to remove the books as well.
+Todo List Website
+This website stores a list of things todo's provided by it's users in the local storage. It allows you to remove a todo as well.
 
 
 ## Built With
 
-- HTML and CSS and Javascript.
+- HTML and CSS and Javascript and webpack
 ## Technologies.
 Visual Studio Code.
 nodejs and npm.
@@ -30,7 +30,7 @@ install node package manager(npm): npm helps to install stylelint.
 
 
 ### Setup
-git clone https://github.com/spydaspider/AwesomeBookProject/tree/modularAwesomeBooks
+git clone https://github.com/spydaspider/webpackProjects
 
 ### Usage
 Navigate through the web page to find the information you need. Use the links in the pages to move to different sections.
